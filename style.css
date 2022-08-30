@@ -1,0 +1,441 @@
+*{
+    margin: 0;
+    font-family: 'Cardo';
+}
+
+ul{
+    list-style-type: none;
+    font-size: 1.3em;
+    
+}
+
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 36px;
+    display: flex;
+}
+
+.header h1{
+    padding-left: 250px;
+    font-size: 24px;
+}
+
+.sg{
+    width: 100%;
+    height: 698px;
+    background-image: url(./image/IMAGE.png);
+}
+
+.sg h2{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    padding-top: 260px;
+    padding-left: 80px;
+}
+
+.dis{
+    margin-top: 40px;
+    margin-left: 613px;
+    width: 204px;
+    height: 33px;
+    border: 1px solid white;
+}
+
+.dis a{
+    color: white;
+    text-decoration: none;
+}
+
+.dis p{
+    font-family: Cardo   ;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 3px;
+}
+
+.dec{
+    width: 324px;
+    height: 50px;
+    background-color: black;
+    margin-top: 240px;
+    margin-left: 20px;
+}
+
+.dec p{
+    font-family: 'Palatino Linotype';
+    color: white;
+    padding: 14px 30px;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+}
+
+.icons{
+    background-color: #F7F7F7;
+    font-family: 'Roboto';
+    width: 100%;
+    height: 155px;
+}
+
+.icons img{
+    padding-top: 62px;
+    padding-left: 69px;
+}
+
+.icons span{
+    padding-left: 22px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.icons .st{
+    padding-left: 200px;
+}
+
+.s2{
+    display: flex;
+}
+
+.s2 img{
+    width: 337.3px;
+    height: 297.3px;
+}
+
+.glav{
+    background-color: #F7F7F7;
+    display: flex;
+}
+
+.txt{
+    padding-top: 163px;
+}
+
+.txt h2{
+    padding-right: 48px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 33px;
+    text-align: right;
+}
+
+.txt h3{
+    padding-top: 8px;
+    padding-right: 48px;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: right;
+}
+
+.txt .poy{
+    padding-top: 38px;
+    padding-right: 48px;
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 15px;
+    text-align: right;
+}
+
+.txt .p{
+    padding-top: 24px;
+    padding-right: 22px;
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: right;
+}
+
+.txt .prop{
+    padding-top: 24px;
+    padding-right: 48px;
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    
+}
+
+.txt .fav{
+    padding-right: 48px;
+    padding-bottom: 20px;
+    color: #BC1414;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: right;
+}
+
+.txt .shop{
+    padding-top: 66px;
+    padding-right: 48px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 17px;
+    text-align: right;
+
+}
+
+.ltxt{
+    padding-top: 163px;
+}
+
+.ltxt h2{
+    padding-left: 38px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 33px;
+}
+
+.ltxt h3{
+    padding-top: 8px;
+    padding-left: 38px;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.ltxt .lpoy{
+    padding-top: 38px;
+    padding-left: 38px;
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.ltxt .lp{
+    padding-top: 24px;
+    padding-left: 38px;
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+}
+
+.ltxt .lshop{
+    padding-top: 66px;
+    padding-left: 41px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 17px;
+
+}
+
+.ltxt .lprop{
+    padding-top: 24px;
+    padding-left: 38px;
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sur{
+    width: 800px;
+    height: 482px;
+    padding-top: 115px;
+}
+
+.sur img{
+    width: 800px;
+    height: 482px;
+}
+
+.o{
+    margin-top: 41px;
+    font-family: 'Cardo';
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.g{
+    margin-top: 21px;
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+
+.sur3{
+    display: flex;
+    margin-top: 37px;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.sur3 img{
+    padding-right: 10px;
+}
+
+.k{
+    display: flex;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+
+.k .kb{
+    width: 9px;
+    height: 9px;
+    background-color: black;
+    margin-right: 5px;
+}
+
+.team{
+    margin-top: 136px;
+    margin-left: 125px;
+    margin-right: 125px;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.UK{
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 37px;
+}
+
+.kub{
+    margin-left: 650px;
+    margin-top: 49px;
+    display: flex;    
+    margin-bottom: 274px;
+}
+
+.kub .k1{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    margin-right: 7px;
+}
+
+.kub .k2{
+    width: 7px;
+    height: 7px;
+    background-color: black;
+    margin-right: 9px;
+    margin-top: 2px;
+}
+
+.kub .k3{
+    width: 3px;
+    height: 3px;
+    background-color: black;
+    margin-right: 12px;
+    margin-top: 4px;
+}
+
+.ab{
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 133 px;
+    text-align: center;
+    letter-spacing: 0.3px;
+}
+
+.im{
+    width: 98.5%;
+    margin: 41px 10px 0px 10px;
+}
+
+.foot{
+    background-color: #E9E9E9;
+    width: 100%;
+    height: 448px;
+}
+
+.foot h2{
+    padding-top: 56px;
+    text-align: center;
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.foot .p{
+    padding-top: 45px;
+    text-align: center;
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+
+.ik{
+    width: 100%;
+    height: 370px;
+    display: flex;
+    
+}
+
+.ik .fs, .fs1{
+    width: 360px;
+    height: 370px;
+}
+
+.ik .fs, .fs1 h2{
+    font-family: 'Cardo';
+    text-align: center;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.ik .fs, .fs1 p{
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.fs1{
+    background-color: white;
+}
+
+.lk{
+    font-family: 'Cardo';
+    font-weight: 400;
+    font-size: 15px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+body{
+    background-color: #F7F7F7;
+}
